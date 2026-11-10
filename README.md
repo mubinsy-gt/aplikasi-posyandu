@@ -21,6 +21,31 @@ Aplikasi desktop berbasis Java untuk membantu pengelolaan data dan administrasi 
 - Pencatatan imunisasi
 - Pembuatan dan pencetakan laporan
 
+## Screenshot Aplikasi
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Login</b><br>
+      <img src="screenshots/login.png" width="360">
+    </td>
+    <td align="center">
+      <b>Main Menu</b><br>
+      <img src="screenshots/MainMenu.png" width="360">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Data Balita</b><br>
+      <img src="screenshots/DataBalita.png" width="360">
+    </td>
+    <td align="center">
+      <b>Laporan Balita</b><br>
+      <img src="screenshots/ReportBalita.png" width="360">
+    </td>
+  </tr>
+</table>
+
 ## Persyaratan
 - Windows
 - JDK 8 atau lebih baru
