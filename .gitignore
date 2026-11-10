@@ -1,0 +1,28 @@
+﻿# NetBeans private configuration
+nbproject/private/
+
+# Generated build files
+build/
+dist/
+
+# Java compiled files
+*.class
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# JasperReports NetBeans plugin installer and duplicate libraries
+/jasperreports 5.6.0 plugin/
+/jasperreports 5.6.0 plugin.rar
+
+# Backup configuration
+nbproject/*.backup
+nbproject/*.before-cleanup
+
+# Duplicate libraries
+/lib/lib/
